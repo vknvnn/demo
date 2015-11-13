@@ -140,6 +140,7 @@
     <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\kendo.ui.core.min.js" />
     <Content Include="Scripts\moment.min.js" />
+    <Content Include="Scripts\require.min.js" />
     <Content Include="Scripts\ui-calendar.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-dj.js" />
     <Content Include="Scripts\i18n\angular-locale_aa-er.js" />

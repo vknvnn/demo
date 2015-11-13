@@ -16,5 +16,3 @@
     });
     return angularAMD.bootstrap(app);
 });
-
-//this is a test
